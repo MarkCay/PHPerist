@@ -1,0 +1,73 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "e3acc125876347c3c93ff56998049699",
+    "packages": [
+        {
+            "name": "requtize/query-builder",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/requtize/query-builder.git",
+                "reference": "cf90413fa7a8abc7c23a796b1995993693e0d6e6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/requtize/query-builder/zipball/cf90413fa7a8abc7c23a796b1995993693e0d6e6",
+                "reference": "cf90413fa7a8abc7c23a796b1995993693e0d6e6",
+                "shasum": ""
+            },
+            "require": {
+                "php": "~5.5 || ^7.0 || ~8.0"
+            },
+            "require-dev": {
+                "mockery/mockery": "0.9.4",
+                "phpunit/phpunit": "^4.8"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Requtize\\QueryBuilder\\": "src/QueryBuilder/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Adam Banaszkiewicz",
+                    "homepage": "http://adambanaszkiewicz.pl",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Fast, simple and dependency-free query builder for PHP.",
+            "homepage": "https://github.com/requtize/query-builder",
+            "keywords": [
+                "database",
+                "query builder",
+                "sql"
+            ],
+            "support": {
+                "issues": "https://github.com/requtize/query-builder/issues",
+                "source": "https://github.com/requtize/query-builder/tree/master"
+            },
+            "time": "2021-03-12T06:32:17+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "requtize/query-builder": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}

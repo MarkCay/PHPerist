@@ -1,0 +1,5 @@
+{
+  "require": {
+    "requtize/query-builder": "dev-master"
+  }
+}
