@@ -1,10 +1,10 @@
 <?php
 defined("BASE_PATH") OR exit('No direct script access allowed');
 class Config {
-  const DATABASE = "pasakay";
+  const DATABASE = "DB_NAME_HERE";
   const HOSTNAME = "localhost";
-  const USERNAME = "markcay";
-  const PASSWORD = "mysql_markcay";
+  const USERNAME = "USERNAME_HERE";
+  const PASSWORD = "PASSWORD_HERE";
   const DEFAULT_TEMPLATE = "default";
   const APP_NAME = "PHPerist";
   const APP_PATH = "app";
