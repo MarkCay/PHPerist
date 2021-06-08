@@ -13,7 +13,7 @@ You can create your custom routing by configuring `$routes` on `config/config.ph
 Here are some guides when configuring your custom routes:
  * Always start your route key with a `"/"`.
  * Always end your route key with a `".php"`
- * You can always set a route key of whatever the $path_info's final value will be on config/routes.php
+ * You can always set a route key of whatever the `$path_info`'s final value will be on config/routes.php
  * `$routes[$key]['title']` will set the HTML document title
  * `$routes[$key]['file']` will load the file if the given path exists in the `app/` folder
  * `$routes[$key]['content']` will set the HTML content of your template
