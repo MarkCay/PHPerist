@@ -103,7 +103,7 @@ For now, the functions I wrote are in the same file, but in future development, 
 Enter your database credentials in `application/config/config.php`.
 Make sure that you enter the right credentials for the database connection to work.
 
-Once connected to the database, `$db` is now available throughout the `app/` for making queries. Checkout the query builder's documentation here: <a href='https://github.com/requtize/query-builder' target='_blank'>https://github.com/requtize/query-builder</a>
+Once connected to the database, `$qbf` is now available throughout the `app/` for making queries. Checkout the query builder's documentation here: <a href='https://github.com/requtize/query-builder' target='_blank'>https://github.com/requtize/query-builder</a>
 
 ## Few more words
 Again, this framework is built using PHP, so you can do all these customization for your project's need. So if you want to add some missing config files, you can add it in `config/` folder then load it in `index.php` file via the `require_once()` function. 😉
