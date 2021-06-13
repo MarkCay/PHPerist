@@ -1,3 +1,18 @@
+<meta name="apple-mobile-web-app-title" content="PHPerist" />
+<meta name="application-name" content="PHPerist" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="theme-color" content="#ffffff" />
+<!-- <link rel="alternate" type="application/rss+xml" title="PHPerist" href="#" /> -->
+<meta name="author" content="Mark Cay" />
+<meta name="theme-color" content="#212529" />
+<meta name="description" content="PHPerist is a simple and lightweight component-based PHP framework made by Mark Cay." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://markcay.github.io/PHPerist" />
+<meta property="og:title" content="PHPerist" />
+<meta property="og:description" content="PHPerist is a simple and lightweight component-based PHP framework made by Mark Cay." />
+<meta property="og:site_name" content="PHPerist" />
+<meta property="og:locale" content="tl" />
+
 # PHPerist
 PHPerist is a simple and lightweight component-based PHP framework made by <a href="https://techieguy.web.app/" target="_blank">Mark Cay</a>. The framework is far from fully developed, but any help or collaboration is appreciated.
 
