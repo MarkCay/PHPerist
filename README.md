@@ -1,6 +1,7 @@
 # PHPerist
 PHPerist is a simple and lightweight component-based PHP framework made by <a href="https://techieguy.web.app/" target="_blank">Mark Cay</a>. The framework is far from fully developed, but any help or collaboration is appreciated.
 
+[![Stargazers repo roster for @MarkCay/PHPerist](https://reporoster.com/stars/MarkCay/PHPerist)](https://github.com/MarkCay/PHPerist/stargazers)
 ## Installation
 After downloading the repository, do the following:
 1. Open your project's folder on CLI and enter `composer install`.
